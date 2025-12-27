@@ -1,0 +1,15 @@
+﻿<RCC>
+    <qresource prefix="/icons">
+        <file>res/icons/play.png</file>
+        <file>res/icons/stop.png</file>
+        <file>res/icons/frame.png</file>
+        <file>res/icons/axis.png</file>
+        <file>res/icons/offset.png</file>
+        <file>res/icons/edges.png</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>res/shaders/vert.glsl</file>
+        <file>res/shaders/frag_v.glsl</file>
+        <file>res/shaders/frag_h.glsl</file>
+    </qresource>
+</RCC>
